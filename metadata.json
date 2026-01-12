@@ -1,0 +1,5 @@
+{
+  "name": "CinePrompt AI Studio",
+  "description": "A professional cinematic camera tool that generates precise JSON camera coordinates and prompts using AI, featuring an interactive 3D visualizer and extensive stylistic controls.",
+  "requestFramePermissions": []
+}
